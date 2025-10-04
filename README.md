@@ -136,6 +136,7 @@ Welcome to the ultimate curated list of **Cybersecurity Tools**, organized by ca
 | **GnuPG** | Encryption and signing of data | https://gnupg.org/ |
 | **Hashcat** | Password recovery tool | https://hashcat.net/hashcat/ |
 | **John the Ripper** | Password cracking | https://www.openwall.com/john/ |
+| **Passlord** | Profile-based wordlist generator | https://github.com/navnee1h/passlord/ |
 
 ---
 
