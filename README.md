@@ -176,6 +176,7 @@ Welcome to the ultimate curated list of **Cybersecurity Tools**, organized by ca
 | **Maltego** | Link analysis & data mining | https://www.maltego.com/ |
 | **Spiderfoot** | OSINT automation tool | https://www.spiderfoot.net/ |
 | **Shodan** | Search engine for internet-connected devices | https://www.shodan.io/ |
+| **ICHI – Internet Cyber Health Index** | Free daily barometer of internet-wide cyber health conditions, aggregating threat intelligence feeds with source transparency | https://ichi.global |
 
 ---
 
